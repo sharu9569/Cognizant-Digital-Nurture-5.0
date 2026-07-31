@@ -1,0 +1,77 @@
+
+.App {
+  text-align: center;
+}
+
+
+.buttons {
+margin: 20px;
+}
+
+
+button {
+margin: 0 10px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border: 1px solid \#ccc;
+border-radius: 5px;
+background-color: \#f0f0f0;
+}
+
+button:hover {
+background-color: \#e0e0e0;
+}
+
+hr {
+margin-bottom: 20px;
+border: 0;
+border-top: 1px solid \#eee;
+}
+
+
+.container {
+display: flex; 
+justify-content: space-around;
+text-align: left;
+}
+
+
+.column {
+flex-basis: 30%; 
+padding: 0 20px;
+}
+
+
+.column:not(:last-child) {
+border-right: 3px solid green;
+}
+
+
+.column h2 {
+text-align: center;
+font-weight: bold;
+font-size: 1.5em;
+}
+
+.column h3 {
+margin-top: 20px;
+font-size: 1.2em;
+}
+
+
+.single-view {
+display: inline-block;
+text-align: left;
+padding: 20px;
+border: 1px solid \#ddd;
+border-radius: 8px;
+background-color: \#fafafa;
+}
+
+
+.footer-note {
+margin-top: 30px;
+font-style: italic;
+color: \#555;
+}
