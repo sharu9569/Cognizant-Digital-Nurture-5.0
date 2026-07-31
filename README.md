@@ -191,10 +191,3 @@ Throughout this program, I gained practical experience in:
 
 ---
 
-# 📌 Note
-
-This repository has been created for educational purposes as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer Program**. The exercises demonstrate concepts learned during the training and are intended for learning and practice.
-
----
-
-## ⭐ If you find this repository useful, feel free to star it!
